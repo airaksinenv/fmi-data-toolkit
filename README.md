@@ -7,7 +7,7 @@ This repository contains code and documentation about fetching data from fmi (Fi
 - 200h of documented work.
 - All documentation will be done in english.
 - The following documents must be created during the course:
-    - Project plan (6-10 pages, inc. front page, table of contents, references, etc.)
+    - [Project plan](documents/project-plan.pdf) (6-10 pages, inc. front page, table of contents, references, etc.)
     - Project requirements (inc. required timetable and required amount of work.)
     - Use case diagram (min. 7 use cases)
     - Sequence diagrams (min. 4pcs)
