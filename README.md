@@ -9,7 +9,7 @@ This repository contains code and documentation about fetching data from fmi (Fi
 - The following documents must be created during the course:
     - [Project plan](documents/project-plan.pdf) (6-10 pages, inc. front page, table of contents, etc.)
     - [Project requirements](documents/project-requirements.pdf) (inc. required timetable and required amount of work.)
-    - Use case diagram (min. 7 use cases)
+    - [Use case diagram](documents/usecase-diagram.pdf) (min. 7 use cases)
     - Sequence diagrams (min. 4pcs)
     - Final report
     - Lessons Learned -document
