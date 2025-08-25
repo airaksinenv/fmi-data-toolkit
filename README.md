@@ -10,7 +10,7 @@ This repository contains code and documentation about fetching data from fmi (Fi
     - [Project plan](documents/project-plan.pdf) (6-10 pages, inc. front page, table of contents, etc.)
     - [Project requirements](documents/project-requirements.pdf) (inc. required timetable and required amount of work.)
     - [Use case diagram](documents/usecase-diagram.pdf) (min. 7 use cases)
-    - Sequence diagrams (min. 4pcs)
+    - [Sequence diagrams](documents/sequence-diagrams.pdf) (min. 4pcs)
     - Final report
     - Lessons Learned -document
 - The course must contain following elements:
